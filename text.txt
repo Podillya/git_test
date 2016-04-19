@@ -1,0 +1,74 @@
+﻿-Сторінка (body)
+-Центруючий елемент(.wrapper)
+	
+	
+	-Верхній декоративний елемент зеленого кольору(.greenline__up)
+		-Адреса підприємства(.company__adress_greenline)
+		-Іконки віджетів соцмереж(.vidgets__social)
+		-Іконка перемикання мови(.language__button)
+
+
+	-Шапка сторінки(.page__header)
+		-Логотип компанії(.company__logo)
+		-Контакти компанії(.contacts__company_header)
+		    -Відділ продажів
+		    	-Назви підрозділів(.company__departaments_header)
+			    -Номери телефонів(.contacts__phonenum_header)
+			-Виробництво
+			    -Назви підрозділів(.company__departaments_header)
+                -Номери телефонів(.contacts__phonenum_header)
+			-Скайп(.contacts__skype)
+			
+		-Кнопки взаємодії(.header__options)
+			-Кнопка замовлення дзвінка(.button)
+			-Кнопка замовлення дзвінка(.button)
+
+			-Баннер fruitfood.ru(.banner__fruitfood)
+
+	
+	-Навігаційне меню сторінки(.page_nav)
+		-Список пунктів меню(.page__navigation_list)
+
+	
+	-Сайдбар сторінки(.page__sidebar)
+
+		-Сайдбар-меню(.sidebar__navigation)
+
+			-Пункти сайдбар-меню
+				-Підменю "Наша продукція"(.list__products)
+
+		-Банер "Ашан"(.banner__promo)
+		-Банер "Лента"(.banner__promo)
+		-Банер "Метро" (.banner__promo)
+		-Банер "Х5group"(.banner__promo)
+
+
+	-Головний блок(.main__section)
+
+        -Блок заголовку(.heading-block)
+		    -Заголовок сторінки(.page__header)
+
+		    -Заголовний малюнок(.main__section_image)
+
+		    -Текстовий блок(.main__section_text)
+
+		    -Підзаголовок сторінки(.page__subheader)
+
+            -Блок з новинами(.update__block)
+		    -Блоки з новинами(.update__block_item)
+			    -Дата(.update__date)
+			    -Заголовок новини(.update__header)
+			    -Зображення новини(.update)
+
+
+	-Декоративний елемент жовтого кольору(.yellowline)
+		-Адреса підприємства(.company__adress_yellowline)
+		-Контакти компанії(.contacts__company)
+			-Назви підрозділів(.company__departaments_yellowline)
+			-Номери телефонів(.contacts__phonenum__yellowline)	
+
+	-Нижній декоративний елемент зеленого кольору(.greenline__down)	
+		-Банер "Канавинское"(.banner__promo)
+		-Банер "Фрукты-продукты"(.banner__promo)
+		-Банер "Premio"(.banner__promo)
+	-Копірайт(.copyright)
